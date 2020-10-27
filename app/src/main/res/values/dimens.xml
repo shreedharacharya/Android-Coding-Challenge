@@ -1,0 +1,51 @@
+<!--
+  ~ Copyright 2020 Shreedhar Acharya
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+   <!-- <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>-->
+
+    <!-- Common dimensions -->
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+    <!--<dimen name="margin_large">32dp</dimen>
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_micro">4dp</dimen>
+
+    <dimen name="text_size_h1">22sp</dimen>
+    <dimen name="text_size_h2">20sp</dimen>
+    <dimen name="text_size_h3">18sp</dimen>
+
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_margin_detail">8dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="text_empty">24sp</dimen>
+    <dimen name="item_image_diameter">54dp</dimen>
+    <dimen name="card_spacing">16dp</dimen>
+
+
+    &lt;!&ndash; School item &ndash;&gt;
+    <dimen name="school_icon_width">56dp</dimen>
+    <dimen name="school_icon_height">56dp</dimen>
+    <dimen name="school_item_stroke_width">2dp</dimen>
+    <dimen name="school_item_padding_vertical">12dp</dimen>-->
+</resources>
